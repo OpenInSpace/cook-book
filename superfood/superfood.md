@@ -4,7 +4,7 @@
 
 ### Aronia
 
-**Sk³adniki**: XYZ
+**Sk³adniki**: XYZ  
 **Uwagi**: XYZ
 
 ### Czosnek
