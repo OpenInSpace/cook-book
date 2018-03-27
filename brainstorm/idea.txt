@@ -1,0 +1,56 @@
+﻿sniadania
+	sniadania-kanapki
+	sniadania-jaglanka
+	sniadania-pasty
+	sniadania-naleśniki
+
+lunch
+	?
+
+dania główne
+	dania-straczki
+	dania-miesne
+	dania-xx
+
+zupy
+	zupy-krem
+	zupy-tradycyjne
+
+salatki
+	salatki-rukola
+	salatki-lodowa
+	salatki-roszponka
+
+surowki
+	?
+
+ciasta
+	
+
+ciasta-częsci
+	ciasta-części-spody
+	ciasta-części-polewy
+	ciasta-posypki
+	ciasta-nadzienie
+
+desery
+	?
+
+przekąski
+napoje
+przetwory
+
+
+
+
+Składniki
+Przepis
+Zdjęcia
+Tagi 
+	kuchnia
+	okazje 
+	rodzaj{wegetariańskie, wegańskie, bez glutenu, bez laktozy, fit}
+	jednogarnkowe
+	fit
+
+Czas przygotowania (Szybki, średni, długu)
