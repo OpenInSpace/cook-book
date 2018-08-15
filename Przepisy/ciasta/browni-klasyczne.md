@@ -1,8 +1,10 @@
 # Browni (klasyczne)
 
+Smaczne czekoladowe ciasto, jedno z tych pewniaków: zawsze wychodzi, zawsze smakuje. Bardzo szybkie w przygotowaniu oraz pieczeniu. 
+
 ## Składniki
 
-|&nbsp;|&nbsp;|&nbsp;| 
+|Wymagane||| 
 |--:|--|--- |
 |100|[g]|czekolady gorzekiej| 
 |100|[g]|czekolady mlecznej| 
