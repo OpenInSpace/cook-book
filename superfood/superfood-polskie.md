@@ -2,10 +2,11 @@
 
 ## Polskie
 
-### Aronia
+### Aronia czarna
 
-**Sk³adniki:** XYZ  
-**Uwagi:** XYZ
+**Sk³adniki:** Witaminy z grupy B, C, E,bioflawonoidy, beta-karoten, sk³adniki mineralne (potas, ¿elazo, wapñ, miedŸ, kobalt), polifnole, antyocyjany   
+**Uwagi:** XYZ  
+**Przyk³adowe zastosowania:** soki, konfitury, dodatki do deserów
 
 ### Czosnek
 
