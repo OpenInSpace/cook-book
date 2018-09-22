@@ -37,6 +37,9 @@ ToDo
 
 obiad, ser, racuchy, na słodko
 
+## ToDO 
+
+Okreslić mąkę
 
 
 
