@@ -18,7 +18,7 @@ Wspaniałe, jasne i delikatne bagietki. Idealne na śniadania lub jako paluchy d
 1. **Mąkę** przesiać do miski, dodać **sól** i **cukier**. Wymieszać.
 2. Dodać drobno pokruszone **drożdże** i wymieszać.
 3. Dolać **wody** o temperaturze pokojowej i mieszać łyżką/ręką przez maksymalnie minutę.
-4. Odstawić na noc (około 12 h) w garnku i przykryć szmatą.
+4. Odstawić na noc (około 12 h) w garnku i przykryć szmatką.
 5. Wyrośnięte ciasto wyciągnąć z garnka (za pomocą łyżki/ręki) na podsypaną stolnice.
 6. Lekko ciasto rozpłaszczyć i zgiąć jego 4 rogi do środka.
 7. Uformować kulkę. Uwaga, ciasto będzie raczej leiste.
