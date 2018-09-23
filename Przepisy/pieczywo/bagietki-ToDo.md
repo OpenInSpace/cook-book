@@ -17,7 +17,7 @@ Wspaniałe, jasne i delikatne bagietki. Idealne na śniadania lub jako paluchy d
 
 1. **Mąkę** przesiać do miski, dodać **sól** i **cukier**. Wymieszać.
 2. Dodać drobno pokruszone **drożdże** i wymieszać.
-3. Dolać **wody** o temperaturze pokojowej i mieszać łyżką/ręką przez około minutę.
+3. Dolać **wody** o temperaturze pokojowej i mieszać łyżką/ręką przez maksymalnie minutę.
 4. Odstawić na noc (około 12 h) w garnku i przykryć szmatą.
 5. Wyrośnięte ciasto wyciągnąć z garnka (za pomocą łyżki/ręki) na podsypaną stolnice.
 6. Lekko ciasto rozpłaszczyć i zgiąć jego 4 rogi do środka.
@@ -28,7 +28,7 @@ Wspaniałe, jasne i delikatne bagietki. Idealne na śniadania lub jako paluchy d
 11. Naciąć wierzch ciasta w paski, aby pękała w kontrolowany sposób podczas pieczenia.
 12. Piec w piekarniku w temp ~240&deg;C około 15 minut. Wyciągam je z piekarnika zanim zaczną się rumienić.
 
-
+* Na dnie piekarnika wstawiam dwie kokili z wodą.
 * Próbowałem z mąki pszennej chlebowej 650 jednak wychodziły zbyt "ciężkie" - raczej konsystencją przypominały bułkę.
 
 ## Liczba porcji
